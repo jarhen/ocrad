@@ -1,0 +1,32 @@
+
+.board{
+	border: 20px solid #453b3b;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #fff;
+    box-shadow: 2px 5px 8px #101010;
+}
+.colors{
+	width: 70px;
+    border-radius: 0px !important;
+    margin: 4px;
+}
+.panel-black{
+	margin-bottom:15px !important;
+	background-color: #544747;
+	color:#fff !important;
+	box-shadow: 2px 5px 8px #101010;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #7d7878;
+}
+.btn {
+	border-radius: 0px !important;
+}
+textarea{
+	font-size:40px !important;
+}
